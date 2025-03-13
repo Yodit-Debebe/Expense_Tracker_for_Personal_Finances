@@ -9,7 +9,7 @@
 
 Description
 
-Create an Expense Tracker application that allows users to track their expenses, categorize them, and generate reports to understand their financial health.
+ Expense Tracker application allows users to track their expenses, categorize them, and generate reports to understand their financial health.
 
 Features
 - Expense Management (CRUD Capability)
