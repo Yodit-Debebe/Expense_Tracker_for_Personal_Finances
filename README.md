@@ -13,7 +13,7 @@ Create an Expense Tracker application that allows users to track their expenses,
 
 Features
 - Expense Management (CRUD Capability)
-  _Add, edit, view and delete expenses
+  -Add, edit, view and delete expenses
 - Categorize expenses
 - Display total expenses
 - Authentication and Authorization
